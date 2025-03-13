@@ -1,0 +1,8 @@
+qiskit
+qiskit_aer
+scikit-learn
+matplotlib
+numpy
+scipy
+cvxpy
+pennylane
